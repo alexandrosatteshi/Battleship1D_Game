@@ -368,7 +368,7 @@ void result(int counter_user, int counter_opponent, int counter_max) {
 //Used in the end of program
 void end_header() {
 	line();
-	cout << "@Programm by Alexandros                                                                     (UNIC 1st Semester/2019FALL)" << endl;
+	cout << "@Programm by Alexandros" << endl;
 	line();
 }
 
