@@ -1,4 +1,4 @@
-#Battleship 1D Game
+# Battleship 1D Game
 
 This repository contains a game for users to play “battleship” against the computer. 
 
